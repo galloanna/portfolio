@@ -1,0 +1,34 @@
+$pink: #fdeef4;
+$black: #231a1d;
+$green: #166a63;
+$bright-red: #e54b4b;
+$dark-red: #ad343e;
+$kelly: #034732;
+$eggplant: #260c1a;
+$white: #ffffff;
+$hunter: #1f363d;
+$teal: #19535f;
+$gold: #e8c547;
+$navy: #011638;
+$wine: #3f0d12;
+
+body {
+  font-family: proxima-nova, sans-serif;
+  font-size: 20px;
+  height: 100vh;
+  background-color: $pink;
+  color: $black;
+}
+
+section {
+  padding: 5em;
+}
+
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.5s;
+}
+.page-enter,
+.page-leave-active {
+  opacity: 0;
+}
