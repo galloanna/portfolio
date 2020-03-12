@@ -1,4 +1,5 @@
 <template>
+<div class="container wrapper">
 <footer class="footer">
   <div class="content has-text-centered">
     <p>
@@ -8,6 +9,7 @@
     </p>
   </div>
 </footer>
+</div>
 </template>
 
 <script>
