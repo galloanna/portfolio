@@ -1,34 +1,53 @@
-$pink: #fdeef4;
-$black: #231a1d;
-$green: #166a63;
-$bright-red: #e54b4b;
-$dark-red: #ad343e;
-$kelly: #034732;
-$eggplant: #260c1a;
-$white: #ffffff;
-$hunter: #1f363d;
-$teal: #19535f;
-$gold: #e8c547;
-$navy: #011638;
-$wine: #3f0d12;
 
-body {
-  font-family: proxima-nova, sans-serif;
-  font-size: 20px;
-  height: 100vh;
-  background-color: $pink;
-  color: $black;
+$black: #231a1d;
+$pink: #fdeef4;
+$yellow: #e8c547;
+$green: #166a63;
+$turquoise: #19535f;
+$blue: #011638;
+$purple: #3f0d12;
+$red: #ad343e;
+
+$kelly: #034732;
+$hunter: #1f363d;
+
+
+$scheme-main: $pink;
+$primary: $red;
+$family-sans-serif: proxima-nova, sans-serif;
+$radius: 0px;
+
+h1, h4 {
+  font-family: $family-sans-serif;
+  text-transform: uppercase;
+  font-weight: 700!important;
 }
 
-section {
-  padding: 5em;
+h2, h3 {
+  font-family: adelle, serif;
+  font-weight: 600!important;
+}
+
+
+@import '~bulma/sass/utilities/_all.sass';
+
+.navbar-item {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.wrapper{
+  background-color: $white;
 }
 
 .page-enter-active,
 .page-leave-active {
   transition: opacity 0.5s;
 }
+
 .page-enter,
 .page-leave-active {
   opacity: 0;
 }
+
+@import '~bulma';

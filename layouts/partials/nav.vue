@@ -1,52 +1,55 @@
 <template>
+
     <header>
-        <nuxt-link to="/" class="logo">Anna Gallo<br><span>UX Developer</span></nuxt-link>
-        <nav>
-            <ul>
-                <li><nuxt-link to="/">About</nuxt-link></li>
-                <li><nuxt-link to="work">Work</nuxt-link></li>
-                <li><nuxt-link to="contact">Contact</nuxt-link></li>
-            </ul>
-        </nav>
+    <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+      <div class="container">
+  <div class="navbar-brand">
+
+    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}" data-target="mainNav">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="mainNav" class="navbar-menu" v-bind:class="{'is-active': isOpen}">
+
+    <div class="navbar-end">
+        <nuxt-link to="/" class="navbar-item">
+        About
+        </nuxt-link>
+        <nuxt-link to="work" class="navbar-item">
+        Work
+        </nuxt-link>
+      <div class="navbar-item">
+          <a class="button is-primary" href="mailto: heyannagallo@gamil.com">
+            Contact
+          </a>
+      </div>
+    </div>
+  </div>
+  </div>
+</nav>
+
     </header>
+
 </template>
 
 <script>
 export default {
-    
+    data: function() {
+        return {
+            isOpen: false
+        }
+    }
 }
 </script>
 
 <style lang="scss">
-    @import '../../assets/css/main.scss';
-    header {
-        display: grid;
-        grid-template-columns: repeat(2,auto);
-    }
-
-    .span {
-        display: block;
-    }
-
-    .logo, li a {
-        padding: 1em 2em;
-        display: block;
-        text-transform: uppercase;
-        text-decoration: none;
-        font-weight: bold;
-        color: $black;
-        font-size: 0.9em;
-    }
-
-    nav {
-        justify-self: right;
-    }
-    li {
-        display: inline;
-    }
-    li a {
-        padding: 1em 2em;
-        display: inline-block;
+    @import '~assets/css/main.scss';
+    .logo {
+      background-color: $black;
+      color: $white!important;
     }
 
 </style>
