@@ -7,8 +7,14 @@
             data-aos-duration="1500"
             data-aos-offset="0"
             data-aos-delay="0">
-              <a href="https://www.linkedin.com/in/annargallo">linkedin</a>
+              <a href="https://www.linkedin.com/in/annargallo" target="new">linkedin</a>
           </div>
+                    <div class="column is-centered is-narrow" data-aos="fade"
+            data-aos-duration="1500"
+            data-aos-offset="0"
+            data-aos-delay="0">
+              <a href="https://drive.google.com/file/d/1PeymxoL2An5Fn8anOjunmTTlIXVN5pB6/view?usp=sharing" target="new">resume</a>
+            </div>
                     <div class="column is-narrow" data-aos="fade"
             data-aos-duration="1500"
             data-aos-offset="0"
@@ -55,7 +61,7 @@
               data-aos-duration="1500"
               data-aos-offset="0"
               data-aos-delay="1500"
-            >Designer + Developer</h3>
+            >UX Developer</h3>
           </div>
         </div>
       </div>

@@ -40,11 +40,11 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name">REAL ID Connecticut</span>
+                  <span class="project-name"><a href="https://egov.ct.gov/realid/#/" target="new">REAL ID Connecticut</a></span>
                   <br />
                   <span class="project-details">Built In</span> Angular, ZURB Foundation
                   <br />
-                  <span class="project-details">Role</span> Email and UI Design and Devlopment
+                  <span class="project-details">Role</span> Email and UI Design and Development
                   <br />
                   <span class="project-details">Client</span> Connecticut Department of Motor Vehicles
                   <br />
@@ -68,7 +68,7 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name">Choose Connecticut</span>
+                  <span class="project-name"><a href="https://portal.ct.gov/ChooseCT/" target="new">Choose Connecticut</a></span>
                   <br />
                   <span class="project-details">Built In</span> Sitecore CMS, ZURB Foundation
                   <br />
@@ -96,7 +96,7 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name">Blanche McCrary Boyd Website</span>
+                  <span class="project-name"><a href="https://www.blanchemccraryboyd.com/" target="new">Blanche McCrary Boyd Website</a></span>
                   <br />
                   <span class="project-details">Built In</span> Squarespace, Custom SASS
                   <br />
@@ -126,7 +126,7 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name">LD Virtual Tutoring</span>
+                  <span class="project-name"><a href="http://www.ldvirtualtutoring.com/" target="new">LD Virtual Tutoring</a></span>
                   <br />
                   <span class="project-details">Built In</span> WordPress
                   <br />
@@ -157,7 +157,7 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name">NORA Naloxone + Overdose Response App</span>
+                  <span class="project-name"><a href="https://egov.ct.gov/norasaves/#/HomePage" target="new">NORA Naloxone + Overdose Response App</a></span>
                   <br />
                   <span class="project-details">Built In</span> Angular, Ionic Framework, PWA
                   <br />
@@ -185,7 +185,7 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name">Governor Ned Lamont's Website</span>
+                  <span class="project-name"><a href="https://portal.ct.gov/governor" target="new">Governor Ned Lamont's Website</a></span>
                   <br />
                   <span class="project-details">Built In</span> Sitecore CMS, ZURB Foundation
                   <br />
@@ -213,7 +213,7 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name">CT.gov</span>
+                  <span class="project-name"><a href="https://portal.ct.gov" target="new">CT.gov</a></span>
                   <br />
                   <span class="project-details">Built In</span> Sitecore CMS, ZURB Foundation
                   <br />
