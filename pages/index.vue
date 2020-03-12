@@ -39,7 +39,7 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name"><a href="https://egov.ct.gov/realid/#/" target="new">REAL ID Connecticut</a></span>
+                  <span class="project-name">REAL ID Connecticut</span>
                   <br />
                   <span class="project-details">Built In</span> Angular, ZURB Foundation
                   <br />
@@ -48,7 +48,7 @@
                   <span class="project-details">Client</span> Connecticut Department of Motor Vehicles
                   <br />
                   <span class="project-details">Company</span> Connecticut Interactive<br><br>
-                  <button class="button is-primary is-outlined is-fullwidth" href="https://egov.ct.gov/realid/#/" target="new">Visit Project</button>
+                  <a href="https://egov.ct.gov/realid/#/" target="_blank"><button class="button is-primary is-outlined is-fullwidth">Visit Project</button></a>
                 </div>
               </div>
             </div>
@@ -67,7 +67,7 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name"><a href="https://portal.ct.gov/ChooseCT/" target="new">Choose Connecticut</a></span>
+                  <span class="project-name">Choose Connecticut</span>
                   <br />
                   <span class="project-details">Built In</span> Sitecore CMS, ZURB Foundation
                   <br />
@@ -76,14 +76,13 @@
                   <span class="project-details">Client</span> Connecticut Department of Economic and Community Development
                   <br />
                   <span class="project-details">Company</span> Connecticut Interactive, Adams & Knight
-                  <br>
-                  <button class="button is-primary is-outlined is-fullwidth" href="https://portal.ct.gov/ChooseCT/" target="new">Visit Project</button>
+<br><br>
+                  <a href="https://portal.ct.gov/ChooseCT/" target="_blank"><button class="button is-primary is-outlined is-fullwidth">Visit Project</button></a>
                 </div>
               </div>
             </div>
 
 
-          <a href="https://www.blanchemccraryboyd.com/" target="new">
             <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="200">
               <div class="card-image">
                 <figure class="image is-4by3">
@@ -97,7 +96,7 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name"><a href="https://www.blanchemccraryboyd.com/" target="new">Blanche McCrary Boyd Website</a></span>
+                  <span class="project-name">Blanche McCrary Boyd Website</span>
                   <br />
                   <span class="project-details">Built In</span> Squarespace, Custom SASS
                   <br />
@@ -106,14 +105,15 @@
                   <span class="project-details">Company</span> Freelance Collaboration with
                   <a
                     href="https://csgstrategic.com/"
-                    target="new"
+                    target="_blank"
                   >Creative Services Group</a>
+                  <br><br>
+                  <a href="https://www.blanchemccraryboyd.com/" target="_blank"><button class="button is-primary is-outlined is-fullwidth">Visit Project</button></a>
                 </div>
               </div>
             </div>
-          </a>
 
-          <a href="http://www.ldvirtualtutoring.com/" target="new">
+
             <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="10">
               <div class="card-image">
                 <figure class="image is-4by3">
@@ -127,7 +127,7 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name"><a href="http://www.ldvirtualtutoring.com/" target="new">LD Virtual Tutoring</a></span>
+                  <span class="project-name">LD Virtual Tutoring</span>
                   <br />
                   <span class="project-details">Built In</span> WordPress
                   <br />
@@ -136,15 +136,15 @@
                   <span class="project-details">Company</span> Freelance Collaboration with
                   <a
                     href="https://csgstrategic.com/"
-                    target="new"
+                    target="_blank"
                   >Creative Services Group</a>
+                                    <br><br>
+                  <a href="http://www.ldvirtualtutoring.com/" target="_blank"><button class="button is-primary is-outlined is-fullwidth">Visit Project</button></a>
                 </div>
               </div>
             </div>
-          </a>
         </div>
         <div class="column interior">
-          <a href="https://egov.ct.gov/norasaves/#/HomePage" target="new">
             <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="200">
               <div class="card-image">
                 <figure class="image is-4by3">
@@ -158,7 +158,7 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name"><a href="https://egov.ct.gov/norasaves/#/HomePage" target="new">NORA Naloxone + Overdose Response App</a></span>
+                  <span class="project-name">NORA Naloxone + Overdose Response App</span>
                   <br />
                   <span class="project-details">Built In</span> Angular, Ionic Framework, PWA
                   <br />
@@ -167,12 +167,12 @@
                   <span class="project-details">Client</span> Connecticut Department of Public Health
                   <br />
                   <span class="project-details">Company</span> Connecticut Interactive
+                                                      <br><br>
+                  <a href="https://egov.ct.gov/norasaves/#/HomePage" target="_blank"><button class="button is-primary is-outlined is-fullwidth">Visit Project</button></a>
                 </div>
               </div>
             </div>
-          </a>
 
-          <a href="https://portal.ct.gov/governor" target="new">
             <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="200">
               <div class="card-image">
                 <figure class="image is-4by3">
@@ -186,7 +186,7 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name"><a href="https://portal.ct.gov/governor" target="new">Governor Ned Lamont's Website</a></span>
+                  <span class="project-name">Governor Ned Lamont's Website</span>
                   <br />
                   <span class="project-details">Built In</span> Sitecore CMS, ZURB Foundation
                   <br />
@@ -195,12 +195,12 @@
                   <span class="project-details">Client</span> The Office of Governor Ned Lamont
                   <br />
                   <span class="project-details">Company</span> Connecticut Interactive
+                                                                        <br><br>
+                  <a href="https://portal.ct.gov/governor" target="_blank"><button class="button is-primary is-outlined is-fullwidth">Visit Project</button></a>
                 </div>
               </div>
             </div>
-          </a>
 
-          <a href="https://portal.ct.gov" target="new">
             <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="200">
               <div class="card-image">
                 <figure class="image is-4by3">
@@ -214,7 +214,7 @@
               </div>
               <div class="card-content">
                 <div class="content">
-                  <span class="project-name"><a href="https://portal.ct.gov" target="new">CT.gov</a></span>
+                  <span class="project-name">CT.gov</span>
                   <br />
                   <span class="project-details">Built In</span> Sitecore CMS, ZURB Foundation
                   <br />
@@ -223,10 +223,11 @@
                   <span class="project-details">Client</span> Connecticut Department of Administrative Services
                   <br />
                   <span class="project-details">Company</span> Connecticut Interactive
+                                                                                          <br><br>
+                  <a href="https://portal.ct.gov" target="_blank"><button class="button is-primary is-outlined is-fullwidth">Visit Project</button></a>
                 </div>
               </div>
             </div>
-          </a>
         </div>
       </div>
     </div>

@@ -3,7 +3,7 @@
 <footer class="footer is-transparent">
   <div class="content has-text-centered">
     <p>
-      <strong>© 2020 Anna Gallo</strong> | Built in <a href="https://nuxtjs.org/" target="new">Nuxt</a> and <a href="https://bulma.io/" target="new">Bulma</a>.
+      <strong>© 2020 Anna Gallo</strong> | Built in <a href="https://nuxtjs.org/" target="_blank">Nuxt</a> and <a href="https://bulma.io/" target="_blank">Bulma</a>.
     </p>
   </div>
 </footer>
