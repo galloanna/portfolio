@@ -1,11 +1,9 @@
 <template>
 <div class="container">
-<footer class="footer">
+<footer class="footer is-transparent">
   <div class="content has-text-centered">
     <p>
-      <strong>Bulma</strong> by <a href="https://jgthms.com">Jeremy Thomas</a>. The source code is licensed
-      <a href="http://opensource.org/licenses/mit-license.php">MIT</a>. The website content
-      is licensed <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.
+      <strong>© 2020 Anna Gallo</strong> | Built in <a href="https://nuxtjs.org/" target="new">Nuxt</a> and <a href="https://bulma.io/" target="new">Bulma</a>.
     </p>
   </div>
 </footer>

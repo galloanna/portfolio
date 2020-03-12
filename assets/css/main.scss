@@ -16,6 +16,7 @@ $scheme-main: $pink;
 $primary: $red;
 $family-sans-serif: proxima-nova, sans-serif;
 $radius: 0px;
+$link: $green;
 
 h1, h4 {
   font-family: $family-sans-serif;
@@ -28,6 +29,7 @@ h2, h3 {
   font-weight: 600!important;
 }
 
+$footer-background-color: rgba(0, 0, 0, 0);
 
 @import '~bulma/sass/utilities/_all.sass';
 

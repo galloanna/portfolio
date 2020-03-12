@@ -1,13 +1,22 @@
 <template>
   <section class="section">
       <div class="container">
-        <div class="columns is-mobile">
-          <div class="column" data-aos="fade"
+        <div class="columns top-row is-mobile is-centerd has-text-centered">
+          <div class="column"></div>
+          <div class="column is-centered is-narrow" data-aos="fade"
             data-aos-duration="1500"
             data-aos-offset="0"
             data-aos-delay="0">
-              iconz
+              <a href="https://www.linkedin.com/in/annargallo">linkedin</a>
           </div>
+                    <div class="column is-narrow" data-aos="fade"
+            data-aos-duration="1500"
+            data-aos-offset="0"
+            data-aos-delay="0">
+              <a href="mailto:heyannagallo@gmail.com">heyannagallo@gmail.com</a>
+          </div>
+        
+        <div class="column"></div>
         </div>
       </div>
     <div class="container">
@@ -90,5 +99,10 @@ export default {};
 .img-round {
   border-radius: 50%;
   border: 5px solid $green;
+}
+.top-row {
+  & a {
+    text-decoration: underline;
+  }
 }
 </style>

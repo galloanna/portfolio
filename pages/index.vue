@@ -15,7 +15,7 @@
             data-aos-duration="1000"
             data-aos-offset="0"
             data-aos-delay="2500"
-          >Hi! I'm Anna, and I make apps and websites. It all started at the beginning of Web 2.0, when I was a fifth grader who wanted to to make my AOL profile look cool. Many moons later, I feel super lucky to do a job I love every day! Check out some of my work below.</h2>
+          >Hi! I'm Anna, and I make apps and websites. It all started at the beginning of Web 2.0, when I was a fifth grader who wanted to to make my AOL profile look cool. Many moons later, I feel super lucky to do a job I love every day! Check out some of my work below and <a href="mailto:heyannagallo@gmail.com">drop me a line</a> to collaborate.</h2>
         </div>
       </div>
       <div
