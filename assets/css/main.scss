@@ -13,7 +13,7 @@ $hunter: #1f363d;
 
 
 $scheme-main: $pink;
-$primary: $red;
+$primary: $green;
 $family-sans-serif: proxima-nova, sans-serif;
 $radius: 0px;
 $link: $green;
@@ -30,6 +30,10 @@ h2, h3 {
 }
 
 $footer-background-color: rgba(0, 0, 0, 0);
+
+button {
+  margin-top: 0.5rem;
+}
 
 @import '~bulma/sass/utilities/_all.sass';
 

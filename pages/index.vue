@@ -26,7 +26,6 @@
         data-aos-delay="3000"
       >
         <div class="column interior">
-          <a href="https://egov.ct.gov/realid/#/" target="new">
             <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="10">
               <div class="card-image">
                 <figure class="image is-4by3">
@@ -48,13 +47,13 @@
                   <br />
                   <span class="project-details">Client</span> Connecticut Department of Motor Vehicles
                   <br />
-                  <span class="project-details">Company</span> Connecticut Interactive
+                  <span class="project-details">Company</span> Connecticut Interactive<br><br>
+                  <button class="button is-primary is-outlined is-fullwidth" href="https://egov.ct.gov/realid/#/" target="new">Visit Project</button>
                 </div>
               </div>
             </div>
-          </a>
 
-          <a href="https://portal.ct.gov/ChooseCT/" target="new">
+
             <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="200">
               <div class="card-image">
                 <figure class="image is-4by3">
@@ -77,10 +76,12 @@
                   <span class="project-details">Client</span> Connecticut Department of Economic and Community Development
                   <br />
                   <span class="project-details">Company</span> Connecticut Interactive, Adams & Knight
+                  <br>
+                  <button class="button is-primary is-outlined is-fullwidth" href="https://portal.ct.gov/ChooseCT/" target="new">Visit Project</button>
                 </div>
               </div>
             </div>
-          </a>
+
 
           <a href="https://www.blanchemccraryboyd.com/" target="new">
             <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="200">
@@ -289,11 +290,11 @@ export default {
   &-content {
     background-color: $white;
   }
-  &:hover {
-    // transform:translateY(-5px)!important;
-    box-shadow: rgba(35, 26, 29, 0.2) 0px 0.5em 1em -0.125em,
-      rgba(35, 26, 29, 0.04) 0px 0px 0px 1px;
-  }
+//   &:hover {
+//     // transform:translateY(-5px)!important;
+//     box-shadow: rgba(35, 26, 29, 0.2) 0px 0.5em 1em -0.125em,
+//       rgba(35, 26, 29, 0.04) 0px 0px 0px 1px;
+//   }
 }
 .card-content .content {
   font-family: $family-sans-serif;
