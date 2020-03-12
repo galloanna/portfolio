@@ -1,5 +1,15 @@
 <template>
   <section class="section">
+      <div class="container">
+        <div class="columns is-mobile">
+          <div class="column" data-aos="fade"
+            data-aos-duration="1500"
+            data-aos-offset="0"
+            data-aos-delay="0">
+              iconz
+          </div>
+        </div>
+      </div>
     <div class="container">
       <div class="columns is-mobile is-centered">
         <div class="column is-narrow has-text-centered">
@@ -9,18 +19,34 @@
             alt="Anna's Headshot"
             width="150"
             height="150"
+            data-aos="fade"
+            data-aos-duration="1500"
+            data-aos-offset="0"
+            data-aos-delay="500"
           />
         </div>
       </div>
       <div class="columns is-mobile is-centered">
         <div class="column is-narrow">
-          <h1 class="background-black">Anna Gallo</h1>
+          <h1
+            class="background-black"
+            data-aos="fade"
+            data-aos-duration="1500"
+            data-aos-offset="0"
+            data-aos-delay="1000"
+          >Anna Gallo</h1>
         </div>
       </div>
       <div class="container">
         <div class="columns is-mobile is-centered">
           <div class="column is-narrow">
-            <h3 class="background-green">Designer + Developer</h3>
+            <h3
+              class="background-green"
+              data-aos="fade"
+              data-aos-duration="1500"
+              data-aos-offset="0"
+              data-aos-delay="1500"
+            >Designer + Developer</h3>
           </div>
         </div>
       </div>
@@ -57,8 +83,8 @@ export default {};
     font-size: 1.5rem;
     padding: 0 3rem;
   }
-    @media screen and (max-width: $tablet) {
-margin-bottom: 0;
+  @media screen and (max-width: $tablet) {
+    margin-bottom: 0;
   }
 }
 .img-round {

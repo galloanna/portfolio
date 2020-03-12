@@ -1,5 +1,5 @@
 <template>
-<div class="container wrapper">
+<div class="container">
 <footer class="footer">
   <div class="content has-text-centered">
     <p>

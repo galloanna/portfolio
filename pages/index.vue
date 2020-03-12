@@ -1,167 +1,234 @@
 <template>
-  <section class="section wrapper">
-      <div class="container main">
-        <div class="columns is-mobile">
-          <div class="column interior">
-            <h2
-              class="lead"
-            >Hi! I'm Anna, and I make apps and websites. It all started at the beginning of Web 2.0, when I was a fifth grader who wanted to to make my AOL profile look cool. Many moons later, I feel super lucky to do a job I love every day! Check out some of my work below.</h2>
-          </div>
-        </div>
-        <div class="columns">
-          <div class="column interior">
-            <div class="card" data-aos="fade-up" data-aos-duration="1000" data-aos-offset="300">
-              <div class="card-image">
-                <figure class="image is-4by3">
-                  <img
-                    src="https://bulma.io/images/placeholders/1280x960.png"
-                    alt="Placeholder image"
-                  />
-                </figure>
-              </div>
-              <div class="card-content">
-                <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Phasellus nec iaculis mauris.
-                  <a>@bulmaio</a>.
-                  <a href="#">#css</a>
-                  <a href="#">#responsive</a>
-                  <br />
-                  <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
-                </div>
-              </div>
-            </div>
-            <div class="card" data-aos="fade-up" data-aos-duration="1000" data-aos-offset="300">
-              <div class="card-image">
-                <figure class="image is-4by3">
-                  <img
-                    src="https://bulma.io/images/placeholders/1280x960.png"
-                    alt="Placeholder image"
-                  />
-                </figure>
-              </div>
-              <div class="card-content">
-                <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Phasellus nec iaculis mauris.
-                  <a>@bulmaio</a>.
-                  <a href="#">#css</a>
-                  <a href="#">#responsive</a>
-                  <br />
-                  <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
-                </div>
-              </div>
-            </div>
-            <div class="card" data-aos="fade-up" data-aos-duration="1000" data-aos-offset="300">
-              <div class="card-image">
-                <figure class="image is-4by3">
-                  <img
-                    src="https://bulma.io/images/placeholders/1280x960.png"
-                    alt="Placeholder image"
-                  />
-                </figure>
-              </div>
-              <div class="card-content">
-                <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Phasellus nec iaculis mauris.
-                  <a>@bulmaio</a>.
-                  <a href="#">#css</a>
-                  <a href="#">#responsive</a>
-                  <br />
-                  <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
-                </div>
-              </div>
-            </div>
-            <div class="card" data-aos="fade-up" data-aos-duration="1000" data-aos-offset="300">
-              <div class="card-image">
-                <figure class="image is-4by3">
-                  <img
-                    src="https://bulma.io/images/placeholders/1280x960.png"
-                    alt="Placeholder image"
-                  />
-                </figure>
-              </div>
-              <div class="card-content">
-                <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Phasellus nec iaculis mauris.
-                  <a>@bulmaio</a>.
-                  <a href="#">#css</a>
-                  <a href="#">#responsive</a>
-                  <br />
-                  <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="column interior">
-            <div class="card" data-aos="fade-up" data-aos-duration="1000" data-aos-offset="300">
-              <div class="card-image">
-                <figure class="image is-4by3">
-                  <img
-                    src="https://bulma.io/images/placeholders/1280x960.png"
-                    alt="Placeholder image"
-                  />
-                </figure>
-              </div>
-              <div class="card-content">
-                <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Phasellus nec iaculis mauris.
-                  <a>@bulmaio</a>.
-                  <a href="#">#css</a>
-                  <a href="#">#responsive</a>
-                  <br />
-                  <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
-                </div>
-              </div>
-            </div>
-            <div class="card" data-aos="fade-up" data-aos-duration="1000" data-aos-offset="300">
-              <div class="card-image">
-                <figure class="image is-4by3">
-                  <img
-                    src="https://bulma.io/images/placeholders/1280x960.png"
-                    alt="Placeholder image"
-                  />
-                </figure>
-              </div>
-              <div class="card-content">
-                <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Phasellus nec iaculis mauris.
-                  <a>@bulmaio</a>.
-                  <a href="#">#css</a>
-                  <a href="#">#responsive</a>
-                  <br />
-                  <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
-                </div>
-              </div>
-            </div>
-            <div class="card" data-aos="fade-up" data-aos-duration="1000" data-aos-offset="300">
-              <div class="card-image">
-                <figure class="image is-4by3">
-                  <img
-                    src="https://bulma.io/images/placeholders/1280x960.png"
-                    alt="Placeholder image"
-                  />
-                </figure>
-              </div>
-              <div class="card-content">
-                <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Phasellus nec iaculis mauris.
-                  <a>@bulmaio</a>.
-                  <a href="#">#css</a>
-                  <a href="#">#responsive</a>
-                  <br />
-                  <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
-                </div>
-              </div>
-            </div>
-          </div>
+  <section
+    class="section wrapper"
+    data-aos="fade"
+    data-aos-duration="1000"
+    data-aos-offset="0"
+    data-aos-delay="2000"
+  >
+    <div class="container main">
+      <div class="columns is-mobile">
+        <div class="column interior">
+          <h2
+            class="lead"
+            data-aos="zoom-in"
+            data-aos-duration="1000"
+            data-aos-offset="0"
+            data-aos-delay="2500"
+          >Hi! I'm Anna, and I make apps and websites. It all started at the beginning of Web 2.0, when I was a fifth grader who wanted to to make my AOL profile look cool. Many moons later, I feel super lucky to do a job I love every day! Check out some of my work below.</h2>
         </div>
       </div>
+      <div
+        class="columns"
+        data-aos="fade"
+        data-aos-duration="1000"
+        data-aos-offset="0"
+        data-aos-delay="3000"
+      >
+        <div class="column interior">
+          <a href="https://egov.ct.gov/realid/#/" target="new">
+            <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="10">
+              <div class="card-image">
+                <figure class="image is-4by3">
+                  <img
+                    src="../assets/img/work/realID.png"
+                    width="1280"
+                    height="1960"
+                    alt="REAL ID Connecticut Branding"
+                  />
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="content">
+                  <span class="project-name">REAL ID Connecticut</span>
+                  <br />
+                  <span class="project-details">Built In</span> Angular, ZURB Foundation
+                  <br />
+                  <span class="project-details">Role</span> Email and UI Design and Devlopment
+                  <br />
+                  <span class="project-details">Client</span> Connecticut Department of Motor Vehicles
+                  <br />
+                  <span class="project-details">Company</span> Connecticut Interactive
+                </div>
+              </div>
+            </div>
+          </a>
+
+          <a href="https://portal.ct.gov/ChooseCT/" target="new">
+            <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="200">
+              <div class="card-image">
+                <figure class="image is-4by3">
+                  <img
+                    src="../assets/img/work/chooseCT.png"
+                    width="1280"
+                    height="1960"
+                    alt="Choose Connecticut Branding"
+                  />
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="content">
+                  <span class="project-name">Choose Connecticut</span>
+                  <br />
+                  <span class="project-details">Built In</span> Sitecore CMS, ZURB Foundation
+                  <br />
+                  <span class="project-details">Role</span> Component Development
+                  <br />
+                  <span class="project-details">Client</span> Connecticut Department of Economic and Community Development
+                  <br />
+                  <span class="project-details">Company</span> Connecticut Interactive, Adams & Knight
+                </div>
+              </div>
+            </div>
+          </a>
+
+          <a href="https://www.blanchemccraryboyd.com/" target="new">
+            <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="200">
+              <div class="card-image">
+                <figure class="image is-4by3">
+                  <img
+                    src="../assets/img/work/bmb.png"
+                    width="1280"
+                    height="1960"
+                    alt="The Tomb of the Unknown Racist Book Cover"
+                  />
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="content">
+                  <span class="project-name">Blanche McCrary Boyd Website</span>
+                  <br />
+                  <span class="project-details">Built In</span> Squarespace, Custom SASS
+                  <br />
+                  <span class="project-details">Role</span> Development
+                  <br />
+                  <span class="project-details">Company</span> Freelance Collaboration with
+                  <a
+                    href="https://csgstrategic.com/"
+                    target="new"
+                  >Creative Services Group</a>
+                </div>
+              </div>
+            </div>
+          </a>
+
+          <a href="http://www.ldvirtualtutoring.com/" target="new">
+            <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="10">
+              <div class="card-image">
+                <figure class="image is-4by3">
+                  <img
+                    src="../assets/img/work/fdu.png"
+                    width="1280"
+                    height="1960"
+                    alt="Fairleigh Dickinson University Branding"
+                  />
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="content">
+                  <span class="project-name">LD Virtual Tutoring</span>
+                  <br />
+                  <span class="project-details">Built In</span> WordPress
+                  <br />
+                  <span class="project-details">Role</span> Development
+                  <br />
+                  <span class="project-details">Company</span> Freelance Collaboration with
+                  <a
+                    href="https://csgstrategic.com/"
+                    target="new"
+                  >Creative Services Group</a>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="column interior">
+          <a href="https://egov.ct.gov/norasaves/#/HomePage" target="new">
+            <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="200">
+              <div class="card-image">
+                <figure class="image is-4by3">
+                  <img
+                    src="../assets/img/work/nora.png"
+                    width="1280"
+                    height="1960"
+                    alt="NORA Branding"
+                  />
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="content">
+                  <span class="project-name">NORA Naloxone + Overdose Response App</span>
+                  <br />
+                  <span class="project-details">Built In</span> Angular, Ionic Framework, PWA
+                  <br />
+                  <span class="project-details">Role</span> Illustration, Responsive UI Design and Development, Non-Script Design and Development
+                  <br />
+                  <span class="project-details">Client</span> Connecticut Department of Public Health
+                  <br />
+                  <span class="project-details">Company</span> Connecticut Interactive
+                </div>
+              </div>
+            </div>
+          </a>
+
+          <a href="https://portal.ct.gov/governor" target="new">
+            <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="200">
+              <div class="card-image">
+                <figure class="image is-4by3">
+                  <img
+                    src="../assets/img/work/govLamont.png"
+                    width="1280"
+                    height="1960"
+                    alt="The Seal of Governor Ned Lamont"
+                  />
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="content">
+                  <span class="project-name">Governor Ned Lamont's Website</span>
+                  <br />
+                  <span class="project-details">Built In</span> Sitecore CMS, ZURB Foundation
+                  <br />
+                  <span class="project-details">Role</span> Design Concept and Mockup, Component UI Design + Development, API Integration, Email Design and Development
+                  <br />
+                  <span class="project-details">Client</span> The Office of Governor Ned Lamont
+                  <br />
+                  <span class="project-details">Company</span> Connecticut Interactive
+                </div>
+              </div>
+            </div>
+          </a>
+
+          <a href="https://portal.ct.gov" target="new">
+            <div class="card" data-aos="fade" data-aos-duration="1000" data-aos-offset="200">
+              <div class="card-image">
+                <figure class="image is-4by3">
+                  <img
+                    src="../assets/img/work/ctGov.png"
+                    width="1280"
+                    height="1960"
+                    alt="CT.gov Branding"
+                  />
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="content">
+                  <span class="project-name">CT.gov</span>
+                  <br />
+                  <span class="project-details">Built In</span> Sitecore CMS, ZURB Foundation
+                  <br />
+                  <span class="project-details">Role</span> Component Design + Development
+                  <br />
+                  <span class="project-details">Client</span> Connecticut Department of Administrative Services
+                  <br />
+                  <span class="project-details">Company</span> Connecticut Interactive
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
   </section>
 </template>
 
@@ -177,10 +244,10 @@ export default {
 
 <style lang="scss">
 @import "~assets/css/main.scss";
-.wrapper{
+.wrapper {
   background-color: $white;
   margin: 0 3em;
-    @media screen and (min-width: $tablet) and (max-width: $desktop) {
+  @media screen and (min-width: $tablet) and (max-width: $desktop) {
     margin: 0 2em;
   }
   @media screen and (max-width: $tablet) {
@@ -189,10 +256,10 @@ export default {
 }
 .main {
   padding: 3em;
-    @media screen and (min-width: $tablet) and (max-width: $desktop) {
+  @media screen and (min-width: $tablet) and (max-width: $desktop) {
     padding: 1.5rem;
   }
-    @media screen and (max-width: $tablet) {
+  @media screen and (max-width: $tablet) {
     padding: 0rem;
   }
 }
@@ -211,7 +278,7 @@ export default {
 .section-title {
   color: $green;
   font-size: 1.1rem;
-    @media screen and (max-width: $tablet) {
+  @media screen and (max-width: $tablet) {
     font-size: 1.25rem;
     padding-bottom: 2rem;
   }
@@ -224,7 +291,8 @@ export default {
   }
   &:hover {
     // transform:translateY(-5px)!important;
-    box-shadow: rgba(35, 26, 29, 0.2) 0px 0.5em 1em -0.125em, rgba(35, 26, 29, 0.04) 0px 0px 0px 1px;
+    box-shadow: rgba(35, 26, 29, 0.2) 0px 0.5em 1em -0.125em,
+      rgba(35, 26, 29, 0.04) 0px 0px 0px 1px;
   }
 }
 .card-content .content {
@@ -232,5 +300,12 @@ export default {
   color: $black;
   line-height: 1.7;
 }
-
+.project-name {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: $green;
+}
+.project-details {
+  font-weight: bold;
+}
 </style>
