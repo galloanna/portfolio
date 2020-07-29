@@ -6,7 +6,7 @@
             data-aos-duration="1500"
             data-aos-offset="0"
             data-aos-delay="0">
-              <a class="top-link" href="https://www.linkedin.com/in/annargallo" target="_blank">linkedin</a><a class="top-link" href="https://drive.google.com/file/d/1PeymxoL2An5Fn8anOjunmTTlIXVN5pB6/view?usp=sharing" target="_blank">resume</a><a class="top-link" href="mailto:heyannagallo@gmail.com">heyannagallo@gmail.com</a>
+              <a class="top-link" href="https://www.linkedin.com/in/annargallo" target="_blank">linkedin</a><a class="top-link" href="https://drive.google.com/file/d/1qBe2QP2lURZrBIRu8Uy3dFSnPPCqPcwI/view?usp=sharing" target="_blank">resume</a><a class="top-link" href="mailto:heyannagallo@gmail.com">heyannagallo@gmail.com</a>
           </div>
 
         </div>
