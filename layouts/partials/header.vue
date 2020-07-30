@@ -56,7 +56,13 @@
 </template>
 
 <script>
-export default {};
+export default {
+    head() {
+    return {
+      title: "Anna Gallo's Portfolio"
+    };
+  }
+};
 </script>
 
 <style lang="scss">
